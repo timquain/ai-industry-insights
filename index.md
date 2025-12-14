@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Industry Insights
+title: 
 ---
 
 # AI Industry Insights
