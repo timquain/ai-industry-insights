@@ -19,7 +19,7 @@
 ## Latest Issue
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 16px 0 8px;">
-  <a href="./Issue_1.md" style="text-decoration: none; color: inherit;">
+  <a href="./Issue_1/" style="text-decoration: none; color: inherit;">
     <div style="padding: 16px; border-radius: 12px; background: #0f172a; color: #e2e8f0; border: 1px solid #1f2937; transition: transform 0.15s ease, box-shadow 0.15s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.35)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
       <p style="margin: 0 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: #94a3b8;">Issue 1</p>
       <h3 style="margin: 0 0 8px;">December 2025</h3>
@@ -30,7 +30,7 @@
       </ul>
     </div>
   </a>
-  <a href="./Issue_1" style="text-decoration: none; color: inherit;">
+  <a href="./Issue_1/" style="text-decoration: none; color: inherit;">
     <div style="padding: 16px; border-radius: 12px; background: #f8fafc; color: #0f172a; border: 1px solid #e2e8f0; transition: transform 0.15s ease, box-shadow 0.15s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 18px rgba(15,23,42,0.1)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
       <h3 style="margin: 0 0 8px;">What’s inside</h3>
       <ul style="margin: 0; padding-left: 18px; line-height: 1.6;">
