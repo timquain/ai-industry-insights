@@ -1,3 +1,8 @@
+---
+layout: default
+title: AI Industry Insights – Issue 1
+---
+
 # AI Industry Insights
 
 <div style="padding: 24px; border-radius: 16px; background: linear-gradient(135deg, #111827, #1f2937); color: #e5e7eb; box-shadow: 0 20px 45px rgba(0,0,0,0.25);">
