@@ -30,7 +30,7 @@
       </ul>
     </div>
   </a>
-  <a href="./Issue_1.md" style="text-decoration: none; color: inherit;">
+  <a href="./Issue_1" style="text-decoration: none; color: inherit;">
     <div style="padding: 16px; border-radius: 12px; background: #f8fafc; color: #0f172a; border: 1px solid #e2e8f0; transition: transform 0.15s ease, box-shadow 0.15s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 18px rgba(15,23,42,0.1)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
       <h3 style="margin: 0 0 8px;">What’s inside</h3>
       <ul style="margin: 0; padding-left: 18px; line-height: 1.6;">
